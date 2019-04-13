@@ -5,7 +5,6 @@ Laravelを使ったスクレイピング実装
 
 ---
 
-
 ### ためしたこと
 
 Goutte ライブラリの利用
@@ -16,10 +15,14 @@ Salvager ライブラリの利用
 ---
 
 ### Goutte
+ScrapingController.php
 
-
+Goutteライブラリにて作ったコントローラー
 
 ---
+### Goutte
+---?code=SalvagerController.php
 
+Salvagerにて作ったコントローラー
 
 ### おわり
