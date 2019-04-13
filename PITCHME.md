@@ -13,16 +13,11 @@ Salvager ライブラリの利用
 
 (Laravel Dusk + DomCrawler)
 
----
-### Goutte
 
 ---?code=ScrapingController.php
 
 Goutteライブラリにて作ったコントローラー
 
----
-
-### Salvager
 
 ---?code=SalvagerController.php
 
