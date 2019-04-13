@@ -1,9 +1,6 @@
-### Laravelを使ったスクレイピング実装
+◯ Laravelを使ったスクレイピング実装
 
-
----
-
-### ためしたこと
+ためしたこと
 
 Goutte ライブラリの利用
 
@@ -12,25 +9,10 @@ Salvager ライブラリの利用
 (Laravel Dusk + DomCrawler)
 
 
----
+
+Goutteライブラリにて作ったコントローラー　作成
 
 
----?code=ScrapingController.php
-
-Goutteライブラリにて作ったコントローラー
+Salvagerにて作ったコントローラー　作成
 
 
-
----
-
-
-
----?code=SalvagerController.php
-
-Salvagerにて作ったコントローラー
-
-
-
----
-
-### ありがとうございました。
